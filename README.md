@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
-# 👋 Hey there, I'm Ayush Raj! 👨‍💻
+
+## 👋 Hey there, I'm Ayush Raj! 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--raj--633526186-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayush-raj-633526186)
 [![Instagram](https://img.shields.io/badge/Instagram-ayushh__74-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/ayushh_74)
@@ -66,4 +65,3 @@ Currently learning **MERN Stack** 🚀 and building cool applications!
 - 💼 LinkedIn: [Ayush Raj](https://www.linkedin.com/in/ayush-raj-633526186)
 
 ---
--->
