@@ -1,67 +1,115 @@
 
 
-## 👋 Hey there, I'm Ayush Raj! 👨‍💻
+### ✅ **🔗 LinkedIn Summary (Optimized for Recruiters + SEO)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--raj--633526186-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayush-raj-633526186)
-[![Instagram](https://img.shields.io/badge/Instagram-ayushh__74-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/ayushh_74)
-[![Facebook](https://img.shields.io/badge/Facebook-ayushh74-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/ayushh74)
+```text
+🚀 Full-Stack Software Engineer | MERN Stack | Java + Spring Boot | React | Node.js | MongoDB | REST API | Agile | SQL
 
----
+I’m Ayush Raj, a passionate full-stack developer with over 8 months of hands-on experience building scalable and responsive web applications using modern technologies like React, Node.js, Spring Boot, and MongoDB.
 
-## 🧠 About Me
+🔹 I've worked on diverse real-world projects ranging from an HRMS-based Timetable Management System to a real-time Project Management Tool using MERN Stack + Socket.io.
 
-I'm a passionate **Software Developer** focusing on **Full-Stack Web Development**.
-Currently learning **MERN Stack** 🚀 and building cool applications!
+🔹 At Tripillar Solutions, I built secure RESTful APIs and optimized API performance by 62% for an enterprise-grade HRMS. At Dot Plus Technologies, I developed 5+ production-grade websites with mobile-first design.
 
-- 🌱 Learning: MongoDB, Express.js, React.js, Node.js
-- 🛠️ Interests: Full-Stack Apps, APIs, Backend Systems
-- 📍 Location: Bengaluru, India 🇮🇳
+I specialize in:
+✔️ Full-Stack Development (MERN & Spring Boot)
+✔️ REST APIs & Microservices
+✔️ Responsive UI with React, Thymeleaf, Bootstrap, Tailwind
+✔️ Agile/Scrum, Git, Postman, IntelliJ, VS Code
+✔️ Database Management with MySQL & MongoDB
 
----
+🌱 Currently learning: TypeScript, Next.js, and DevOps basics  
+📍 Based in Bengaluru, open to full-time/internship opportunities
 
-## 🛠️ Tech Stack
+📫 Let's connect! I'm always up for discussing tech, open-source, or collaboration ideas.
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frameworks:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-
-**Database:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+Portfolio: https://myportfolio15.vercel.app  
+GitHub: https://github.com/ayushhCreator  
+Email: araj09510@gmail.com  
+```
 
 ---
 
-## 🚀 Projects
+### ✅ **📘 GitHub Profile README (`README.md`)**
 
-- 🔥 [**HRMS Timetable Management**](https://github.com/ayushhCreator/HRMS-Timetable) - Backend Scheduling System (Spring Boot + MySQL)
-- 🏨 [**Hotel Reservation System**](https://github.com/ayushhCreator/Hotel-Reservation-System) - Book Hotels Online (ASP.NET MVC + MySQL)
-- 🌐 [**Portfolio Website**](https://github.com/ayushhCreator/Personal-Portfolio) - Personal portfolio (HTML, CSS, JavaScript)
-- 🛒 [**E-commerce Storefront**](https://github.com/ayushhCreator/E-commerce-Website) - MERN Stack Shopping Platform
-- ✍️ [**Blogging Platform API**](https://github.com/ayushhCreator/Blog-API) - Node.js + MongoDB backend API
+```markdown
+<h1 align="center">Hey there, I'm Ayush Raj 👋</h1>
 
----
-
-## 📈 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushhCreator&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhCreator&layout=compact&theme=tokyonight)
+<p align="center">
+  💻 Full-Stack Developer | MERN Stack | Java + Spring Boot | React.js | MongoDB  
+</p>
 
 ---
 
-## 📬 Contact Me!
+### 🧠 About Me
 
-- 📧 Email: [araj09510@gmail.com](mailto:araj09510@gmail.com)
-- 💼 LinkedIn: [Ayush Raj](https://www.linkedin.com/in/ayush-raj-633526186)
+I'm a passionate software engineer from **Bengaluru, India**, with 8+ months of hands-on experience developing full-stack web applications using modern tools like **MERN stack**, **Spring Boot**, and **RESTful APIs**.
+
+- 🔭 I’m currently building: `WorkNest – Real-Time Project Management Tool`
+- 🌱 Learning: TypeScript, Next.js, DevOps basics
+- 🛠️ Skilled in: Java, Spring Boot, Node.js, React, MySQL, MongoDB
+- 📫 Reach me at: [ayushraj150103@gmail.com](mailto:ayushraj150103@gmail.com)
 
 ---
+
+### 🚀 Featured Projects
+
+- 🔧 [**WorkNest – Real-Time Project Manager**](https://github.com/ayushhCreator/worknest)  
+  MERN Stack + Socket.io + JWT + Tailwind
+
+- 🍽 [**Food Waste Management System**](https://github.com/ayushhCreator/food-waste-management-system)  
+  PHP + MySQL | Role-based donation and delivery tracking
+
+- 🧾 [**HRMS Timetable Management**](https://github.com/ayushhCreator/HRMS-Timetable)  
+  Java + Spring Boot | Automated scheduling + REST APIs
+
+- 🛒 [**E-commerce Website**](https://github.com/ayushhCreator/E-commerce-Website)  
+  MERN Stack | Cart + Product Listing + Auth
+
+---
+
+### 💼 Work Experience
+
+- 🏢 **Tripillar Solutions LLP** – Full-Stack Intern (Spring Boot + Thymeleaf)
+- 🌐 **Dot Plus Technologies** – Web Developer Intern (HTML/CSS/JS + PHP)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Java • JavaScript • TypeScript • Python • SQL
+
+**Frontend:**  
+React.js • Bootstrap • Tailwind CSS • Thymeleaf • HTML5 • CSS3
+
+**Backend:**  
+Node.js • Express.js • Spring Boot • .NET Framework • PHP
+
+**Database:**  
+MySQL • MongoDB • SQL Server
+
+**Tools:**  
+Git • GitHub • Postman • VS Code • IntelliJ IDEA • Maven • NPM
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhCreator&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhCreator&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--raj--633526186-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayush-raj-633526186)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-myportfolio15.vercel.app-24292E?style=flat-square&logo=vercel)](https://myportfolio15.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-ayushhCreator-333?style=flat-square&logo=github)](https://github.com/ayushhCreator)
+
+---
+
+*Thanks for visiting my profile! Feel free to drop a ⭐ on any project you like!*
+`
