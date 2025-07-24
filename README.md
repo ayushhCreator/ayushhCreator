@@ -25,11 +25,6 @@ I'm a passionate software engineer from **Bengaluru, India**, with 8+ months of 
 - 🍽 [**Food Waste Management System**](https://github.com/ayushhCreator/food-waste-management-system)  
   PHP + MySQL | Role-based donation and delivery tracking
 
-- 🧾 [**HRMS Timetable Management**](https://github.com/ayushhCreator/HRMS-Timetable)  
-  Java + Spring Boot | Automated scheduling + REST APIs
-
-- 🛒 [**E-commerce Website**](https://github.com/ayushhCreator/E-commerce-Website)  
-  MERN Stack | Cart + Product Listing + Auth
 
 ---
 
