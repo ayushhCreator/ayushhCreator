@@ -1,35 +1,5 @@
 
 
-### ✅ **🔗 LinkedIn Summary (Optimized for Recruiters + SEO)**
-
-```text
-🚀 Full-Stack Software Engineer | MERN Stack | Java + Spring Boot | React | Node.js | MongoDB | REST API | Agile | SQL
-
-I’m Ayush Raj, a passionate full-stack developer with over 8 months of hands-on experience building scalable and responsive web applications using modern technologies like React, Node.js, Spring Boot, and MongoDB.
-
-🔹 I've worked on diverse real-world projects ranging from an HRMS-based Timetable Management System to a real-time Project Management Tool using MERN Stack + Socket.io.
-
-🔹 At Tripillar Solutions, I built secure RESTful APIs and optimized API performance by 62% for an enterprise-grade HRMS. At Dot Plus Technologies, I developed 5+ production-grade websites with mobile-first design.
-
-I specialize in:
-✔️ Full-Stack Development (MERN & Spring Boot)
-✔️ REST APIs & Microservices
-✔️ Responsive UI with React, Thymeleaf, Bootstrap, Tailwind
-✔️ Agile/Scrum, Git, Postman, IntelliJ, VS Code
-✔️ Database Management with MySQL & MongoDB
-
-🌱 Currently learning: TypeScript, Next.js, and DevOps basics  
-📍 Based in Bengaluru, open to full-time/internship opportunities
-
-📫 Let's connect! I'm always up for discussing tech, open-source, or collaboration ideas.
-
-Portfolio: https://myportfolio15.vercel.app  
-GitHub: https://github.com/ayushhCreator  
-Email: araj09510@gmail.com  
-```
-
----
-
 ### ✅ **📘 GitHub Profile README (`README.md`)**
 
 ```markdown
