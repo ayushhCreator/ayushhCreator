@@ -1,8 +1,3 @@
-
-
-### ✅ **📘 GitHub Profile README (`README.md`)**
-
-```markdown
 <h1 align="center">Hey there, I'm Ayush Raj 👋</h1>
 
 <p align="center">
@@ -82,4 +77,3 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA • Maven • NPM
 ---
 
 *Thanks for visiting my profile! Feel free to drop a ⭐ on any project you like!*
-`
